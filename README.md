@@ -9,8 +9,7 @@
 ![image](https://user-images.githubusercontent.com/77307635/207211267-8d33749a-bf51-41a1-9481-91c15711f3a2.png)
 ![image](https://user-images.githubusercontent.com/77307635/207211330-81f75967-3dce-435c-8e74-e37069a392b4.png)
 
-You can acces the app clicking <a href="https://murielzounar.github.io/flork-todo/" alt="link to the app" title="Flork ToDo App" target="_blank">here</a>
-
+You can access the app clicking <a href="https://murielzounar.github.io/flork-todo/" alt="link to the app" title="Flork ToDo App" target="_blank">here</a>
 
 If you have some constructive criticesm, please contact me on LinkedIn (https://www.linkedin.com/in/murielzounar/) or e-mail me (muriel.zounar@gmail.com)
 All criticism are welcome!
