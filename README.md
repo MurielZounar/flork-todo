@@ -1,8 +1,7 @@
 # Flork ToDo
 
-## This project was made to practice Angular.
-## I decided to use Flork theme because tasks can look like boring or streesing.
-## But with some fun, everything looks better and lighter
+This project was made to practice Angular.
+I decided to use Flork theme because tasks can look like boring or stressing. But with some fun, everything looks better and lighter
 
 ![flork_todo_demo](https://user-images.githubusercontent.com/77307635/207212997-a074b598-e212-4e27-9574-f5c31dccf6ea.gif)
 ![image](https://user-images.githubusercontent.com/77307635/207211204-4bc00eed-ecd8-4dab-974c-076ea4f23613.png)
