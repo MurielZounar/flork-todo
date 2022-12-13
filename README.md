@@ -1,6 +1,7 @@
 # Flork ToDo
 
 This project was made to practice Angular.
+
 I decided to use Flork theme because tasks can look like boring or stressing. But with some fun, everything looks better and lighter
 
 ![flork_todo_demo](https://user-images.githubusercontent.com/77307635/207212997-a074b598-e212-4e27-9574-f5c31dccf6ea.gif)
@@ -10,7 +11,8 @@ I decided to use Flork theme because tasks can look like boring or stressing. Bu
 
 You can access the app clicking <a href="https://murielzounar.github.io/flork-todo/" alt="link to the app" title="Flork ToDo App" target="_blank">here</a>
 
-If you have some constructive criticesm, please contact me on LinkedIn (https://www.linkedin.com/in/murielzounar/) or e-mail me (muriel.zounar@gmail.com)
+If you have some constructive criticism, please, contact me on LinkedIn (https://www.linkedin.com/in/murielzounar/) or e-mail me (muriel.zounar@gmail.com)
+
 All criticism are welcome!
 
 Peace!✌🏻
