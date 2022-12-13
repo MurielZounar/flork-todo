@@ -13,6 +13,4 @@ You can access the app clicking <a href="https://murielzounar.github.io/flork-to
 
 If you have some constructive criticism, please, contact me on LinkedIn (https://www.linkedin.com/in/murielzounar/) or e-mail me (muriel.zounar@gmail.com)
 
-All criticism are welcome!
-
 Peace!✌🏻
