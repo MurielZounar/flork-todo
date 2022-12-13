@@ -27,7 +27,7 @@ export class TodoListComponent implements OnInit, DoCheck{
   }
 
   public deleteAllTasks() {
-    const confirm = window.confirm('Deseja realmente apagar todas as tarefas?')
+    const confirm = window.confirm('Are you sure you want to kill all these boring tasks?')
 
     if (confirm){
      this.taskList = []
