@@ -1,27 +1,18 @@
-# TodoList
+# Flork ToDo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
+This project was made to practice Angular.
 
-## Development server
+![image](https://user-images.githubusercontent.com/77307635/207211204-4bc00eed-ecd8-4dab-974c-076ea4f23613.png)
+![image](https://user-images.githubusercontent.com/77307635/207211267-8d33749a-bf51-41a1-9481-91c15711f3a2.png)
+![image](https://user-images.githubusercontent.com/77307635/207211330-81f75967-3dce-435c-8e74-e37069a392b4.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## I decided to use Flork theme because tasks can look like boring or streesing.
+## But with some fun, everything looks better and lighter
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+You can acces the app clicking here: https://murielzounar.github.io/flork-todo/
 
-## Build
+If you have some constructive criticesm, please contact me on LinkedIn (https://www.linkedin.com/in/murielzounar/) or e-mail me (muriel.zounar@gmail.com)
+All criticism are welcome!
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Peace!✌🏻
