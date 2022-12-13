@@ -3,6 +3,7 @@
 :host {
   display: flex;
   justify-content: center;
+  align-items: center;
   margin-top: -20px;
 
   input {
@@ -19,6 +20,19 @@
 
     &::placeholder{
       color: $secondary-text-color;
+    }
+  }
+  button {
+    width: 40px;
+    height: 40px;
+    background: white;
+    border: none;
+    border-radius: 50px;
+    margin-left: -43px;
+
+    img {
+      width: 30px;
+      height: 30px;
     }
   }
 }
